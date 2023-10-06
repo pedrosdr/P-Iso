@@ -1,0 +1,43 @@
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\bin\Debug\Iso.exe.config
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\bin\Debug\Iso.exe
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\bin\Debug\Iso.pdb
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.csproj.AssemblyReference.cache
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.Properties.Resources.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.csproj.GenerateResource.cache
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.csproj.CoreCompileInputs.cache
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.exe
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.pdb
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.csproj.AssemblyReference.cache
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.Form1.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.Form2.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.Properties.Resources.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.csproj.GenerateResource.cache
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.csproj.CoreCompileInputs.cache
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.exe
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\obj\Debug\Iso.pdb
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\bin\Debug\Iso.exe.config
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\bin\Debug\Iso.exe
+C:\Users\Janete\Documents\Projetos C#\Iso v12\Iso\bin\Debug\Iso.pdb
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormMain.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormInit.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\bin\Debug\Iso.exe.config
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\bin\Debug\Iso.exe
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\bin\Debug\Iso.pdb
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.csproj.AssemblyReference.cache
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.FormInit.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.FormMain.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.Properties.Resources.resources
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.csproj.GenerateResource.cache
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.csproj.CoreCompileInputs.cache
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.exe
+C:\Users\Janete\Documents\Projetos C#\Iso v18.3\Iso\obj\Debug\Iso.pdb
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormMessage.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormAddDistLoad.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormEditSupport.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormTests.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormBeamComunication.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormAddNUDistLoad.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormSaveMessage.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormAddLoadBeam.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormAddLoadColumn.resources
+C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormGetValue.resources

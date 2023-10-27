@@ -219,6 +219,28 @@ namespace Iso
             return normals.ToArray();
         }
 
+        // Gets normal equations
+        public static double[] GetNormals(Beam beam)
+        {
+            List<double> normals = new List<double>();
+            double[] nodes = GetNodes(beam);
+
+            List<Load> forces = new List<Load>();
+            beam.PointLoads.ForEach(f => forces.Add(f));
+            beam.VirtualPointLoads.ForEach(f => forces.Add(f));
+            beam.VirtualDistributedLoads.ForEach(l => forces.Add(l.ResultingForce));
+            beam.DistributedLoads.ForEach(l => forces.Add(l.ResultingForce));
+            beam.Supports.ForEach(s => forces.Add(s.Reaction));
+
+            for (int i = 0; i < nodes.Length; i++)
+            {
+                double normal = -forces.Where(f => f.InnerPoint < nodes[i]).Select(f => f.VectorX).Sum();
+                normals.Add(normal);
+            }
+
+            return normals.ToArray();
+        }
+
         //Gets the deformation in function of AE in the given point
         public static double GetDeformationFuncAE(Beam beam, double x)
         {

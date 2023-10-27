@@ -359,6 +359,11 @@ namespace Iso
 
             List<ShearEquation> eqs = Beams.GetShearEquations(this);
 
+            foreach(ShearEquation eq in eqs)
+            {
+                Console.WriteLine(eq.ToString());
+            }
+
             List<PointF> points = new List<PointF>();
             points.Add(new SideViewPosition(this, 0, 0).ToPointF());
             foreach(ShearEquation eq in eqs)
@@ -386,6 +391,18 @@ namespace Iso
                 p = new SideViewPosition(this, eq.To, eq.GetShearForce(eq.To) * SideViewScreenProperties.MomentumDiagramScale);
                 font = new Font("Verdana", 10, FontStyle.Regular, GraphicsUnit.Pixel);
                 graphs.DrawString(s, font, brush, p.ToPointF());
+            }
+
+            // Shear Equations
+            foreach(ShearEquation eq in eqs)
+            {
+                double x = (eq.From + eq.To) / 2;
+                double V = eq.a * x + eq.b;
+
+                Font font = new Font("Verdana", 10, FontStyle.Regular, GraphicsUnit.Pixel);
+                Brush brush = new SolidBrush(Color.Black);
+                SideViewPosition p1 = new SideViewPosition(this, x, V * SideViewScreenProperties.MomentumDiagramScale);
+                graphs.DrawString(eq.ToString(), font, brush, p1.ToPointF());
             }
         }
         private void DrawMomentumDiagram(Bitmap backbuffer)

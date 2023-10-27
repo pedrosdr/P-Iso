@@ -41,3 +41,25 @@ C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormSaveMessage.reso
 C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormAddLoadBeam.resources
 C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormAddLoadColumn.resources
 C:\Users\Janete\Documents\Projetos C#\Iso\Iso\obj\Debug\Iso.FormGetValue.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\bin\Debug\Iso.exe.config
+C:\Users\Pedro\Desktop\P-Iso\Iso\bin\Debug\Iso.exe
+C:\Users\Pedro\Desktop\P-Iso\Iso\bin\Debug\Iso.pdb
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormAddLoadColumn.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormGetValue.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormSaveMessage.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormAddNUDistLoad.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormBeamComunication.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormEditSupport.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormAddDistLoad.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormAddLoadBeam.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormInit.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormMain.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormMessage.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.FormTests.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.Properties.Resources.resources
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.exe
+C:\Users\Pedro\Desktop\P-Iso\Iso\obj\Debug\Iso.pdb

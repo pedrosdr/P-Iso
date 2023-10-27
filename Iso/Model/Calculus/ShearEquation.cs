@@ -28,5 +28,16 @@ namespace Iso
         {
             return a * x + b;
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("V = ");
+            sb.Append(a.ToString("0.00"));
+            sb.Append("x");
+            sb.Append(b >= 0 ? " + " : " - ");
+            sb.Append(Math.Abs(b).ToString("0.00"));
+            return sb.ToString();
+        }
     }
 }

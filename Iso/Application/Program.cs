@@ -17,9 +17,9 @@ namespace Iso
         {
             //Creating temp directory for autosaves
             if (!Directory.Exists(Application.ExecutablePath + @"\resources\temp"))
-                {
-                    Directory.CreateDirectory(Application.StartupPath + @"\resources\temp");
-                }
+            {
+                Directory.CreateDirectory(Application.StartupPath + @"\resources\temp");
+            }
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

@@ -209,7 +209,7 @@ namespace Iso
         {
             if (_manager != null)
             {
-                if (_manager.SelectedItems.Count != 1)
+                if (_manager.SelectedItems.Count != 1 || _manager.SelectedItem is Column)
                 {
                     btnAddLoad.Enabled = false;
                     btnAddDistLoad.Enabled = false;

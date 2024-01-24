@@ -224,6 +224,7 @@ namespace Iso
 
         private void FormMain_Resize(object sender, EventArgs e)
         {
+            if (splitContainer == null) return;
             Design();
             try
             {
